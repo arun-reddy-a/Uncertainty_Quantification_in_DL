@@ -17,7 +17,7 @@ def display_gif_frame(gif_path, frame_index):
         print("lose")
         st.error(f"Error: {e}")
 
-st.header("Uncertainity in Deep Learning for Regresssion.")
+st.header("Uncertainty in Deep Learning for Regresssion.")
 names = "Anugu Arun Reddy"
 formatted_names = f'<div style="text-align: center;"><strong style="font-size: 17px;">{names}</strong></div>'
 st.write(formatted_names, unsafe_allow_html=True)
