@@ -1,2 +1,8 @@
-streamlit==1.28.1
-
+streamlit
+numpy
+imageio
+pillow
+matplotlib
+pandas
+scikit-learn
+torch
